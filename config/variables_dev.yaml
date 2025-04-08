@@ -1,0 +1,6 @@
+remote_url: "http://localhost:4723/wd/hub"
+platform_name: "iOS"
+device_name: "iPhone 12"
+platform_version: "14.4"
+bundle_id: "com.apple.Maps"
+automation_name: "XCUITest"

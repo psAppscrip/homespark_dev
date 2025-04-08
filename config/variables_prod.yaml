@@ -1,0 +1,6 @@
+remote_url: "http://prod.local:4723/wd/hub"
+platform_name: "iOS"
+device_name: "iPhone 12 Pro Max"
+platform_version: "15.0"
+bundle_id: "com.apple.Safari"
+automation_name: "XCUITest"
